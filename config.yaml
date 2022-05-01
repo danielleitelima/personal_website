@@ -114,13 +114,13 @@ params:
     enable: true
     items:
       - job: "Android Engineer"
-        company: "MAYD - Meds At Your Doorstep"
+        company: "MAYD"
         companyUrl: "https://www.getmayd.com/"
         date: "Jul 2021 - present"
         info:
           enable: false
         content: |
-          MAYD is a successful startup with the goal of providing quickly delivered meds for users across Europe. As part of the Android team, I'm responsible for delivering new and exciting features and for guaranteeing software quality.
+          MAYD, is a successful startup with the goal of providing quickly delivered meds for users across Europe. As part of the Android team, I'm responsible for delivering new and exciting features and for guaranteeing software quality.
 
       - job: "Senior Android Developer"
         company: "BTG Pactual"
